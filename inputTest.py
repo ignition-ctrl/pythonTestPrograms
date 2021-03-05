@@ -1,3 +1,3 @@
 print(" ")
-name = raw_input("Name, please \n")
+name = input("Name, please \n")
 print ("Welcome, " + name)
